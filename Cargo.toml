@@ -1,0 +1,10 @@
+[package]
+name = "syngen"
+version = "0.1.0"
+authors = ["Alek Ratzloff <alekratz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+snafu = "0.4.1"
+regex-syntax = "0.6.7"
+regex = "1.1.7"
